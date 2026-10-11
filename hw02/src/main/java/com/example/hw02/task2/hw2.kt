@@ -1,8 +1,8 @@
-package com.example.hw02.task2
+package com.example.hw02.com.example.hw02.task2
 
 fun main() {
     // --- Part A ---
-    val daysRemaining = 2 // Bisa diuji dengan -1, 0, atau 2
+    val daysRemaining = 2
 
     if (daysRemaining < 0) {
         println("Overdue")
@@ -13,7 +13,7 @@ fun main() {
     }
 
     // --- Part B ---
-    val month = 9 // Bisa diuji dengan 9 atau 13
+    val month = 9
     val monthName = when (month) {
         1 -> "January"
         2 -> "February"

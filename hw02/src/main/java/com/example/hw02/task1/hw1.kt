@@ -1,4 +1,4 @@
-package com.example.hw02.task1
+package com.example.hw02.com.example.hw02.task1
 
 fun main() {
     // --- Part A ---
