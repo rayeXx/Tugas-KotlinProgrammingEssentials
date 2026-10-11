@@ -1,4 +1,4 @@
-package com.example.hw02.task5
+package com.example.hw02.com.example.hw02.task5
 
 fun main() {
     print("Assignment score: ")

@@ -1,4 +1,4 @@
-package com.example.hw02.task3
+package com.example.hw02.com.example.hw02.task3
 
 fun main() {
     val numberOfDays = 5

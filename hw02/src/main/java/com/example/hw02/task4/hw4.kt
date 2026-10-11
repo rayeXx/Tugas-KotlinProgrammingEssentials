@@ -1,4 +1,4 @@
-package com.example.hw02.task4
+package com.example.hw02.com.example.hw02.task4
 
 // Fungsi Part A
 fun calculateStudyMinutes(sessions: Int, minutesPerSession: Int): Int {
